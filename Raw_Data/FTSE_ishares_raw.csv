@@ -1,0 +1,113 @@
+﻿Fund Holdings as of,30-Oct-20,,,,,,,,,,,
+ ,,,,,,,,,,,,
+Issuer Ticker,Name,Asset Class,Weight (%),Price,Nominal,Market Value,Notional Value,Sector,ISIN,Exchange,Location,Market Currency
+AZN,ASTRAZENECA PLC,Equity,7.1,77.66,"6,520,800.00","506,405,328.00","506,405,328.00",Health Care,GB0009895292,London Stock Exchange,United Kingdom,GBP
+HSBA,HSBC HOLDINGS PLC,Equity,4.6,3.25,"101,219,172.00","328,506,822.73","328,506,822.73",Financials,GB0005405286,London Stock Exchange,United Kingdom,GBP
+GSK,GLAXOSMITHKLINE PLC,Equity,4.43,12.92,"24,490,081.00","316,362,866.36","316,362,866.36",Health Care,GB0009252882,London Stock Exchange,United Kingdom,GBP
+DGE,DIAGEO PLC,Equity,3.99,24.99,"11,399,061.00","284,862,534.39","284,862,534.39",Consumer Staples,GB0002374006,London Stock Exchange,United Kingdom,GBP
+BATS,BRITISH AMERICAN TOBACCO PLC,Equity,3.89,24.48,"11,342,947.00","277,675,342.56","277,675,342.56",Consumer Staples,GB0002875804,London Stock Exchange,United Kingdom,GBP
+ULVR,UNILEVER PLC,Equity,3.34,44.04,"5,416,350.00","238,536,054.00","238,536,054.00",Consumer Staples,GB00B10RZP78,London Stock Exchange,United Kingdom,GBP
+RIO,RIO TINTO PLC,Equity,3.29,43.57,"5,394,316.00","235,030,348.12","235,030,348.12",Materials,GB0007188757,London Stock Exchange,United Kingdom,GBP
+RB,RECKITT BENCKISER GROUP PLC,Equity,2.99,68,"3,133,803.00","213,098,604.00","213,098,604.00",Consumer Staples,GB00B24CGK77,London Stock Exchange,United Kingdom,GBP
+RDSA,ROYAL DUTCH SHELL PLC,Equity,2.76,9.65,"20,366,404.00","196,617,264.22","196,617,264.22",Energy,GB00B03MLX29,London Stock Exchange,United Kingdom,GBP
+BP,BP PLC,Equity,2.72,1.97,"98,575,083.00","193,798,613.18","193,798,613.18",Energy,GB0007980591,London Stock Exchange,United Kingdom,GBP
+RDSB,ROYAL DUTCH SHELL PLC CLASS B,Equity,2.4,9.29,"18,426,458.00","171,181,794.82","171,181,794.82",Energy,GB00B03MM408,London Stock Exchange,United Kingdom,GBP
+NG,NATIONAL GRID PLC,Equity,2.24,9.19,"17,404,815.00","159,950,249.85","159,950,249.85",Utilities,GB00BDR05C01,London Stock Exchange,United Kingdom,GBP
+BHP,BHP GROUP PLC,Equity,2.16,14.9,"10,330,438.00","153,944,187.08","153,944,187.08",Materials,GB00BH0P3Z91,London Stock Exchange,United Kingdom,GBP
+REL,RELX PLC,Equity,1.97,15.28,"9,221,717.00","140,861,727.18","140,861,727.18",Industrials,GB00B2B0DG97,London Stock Exchange,United Kingdom,GBP
+VOD,VODAFONE GROUP PLC,Equity,1.92,1.03,"133,106,377.00","137,099,568.31","137,099,568.31",Communication,GB00BH4HKS39,London Stock Exchange,United Kingdom,GBP
+LSE,LONDON STOCK EXCHANGE GROUP PLC,Equity,1.81,82.78,"1,562,596.00","129,351,696.88","129,351,696.88",Financials,GB00B0SWJX34,London Stock Exchange,United Kingdom,GBP
+EXPN,EXPERIAN PLC,Equity,1.78,28.17,"4,499,760.00","126,758,239.20","126,758,239.20",Industrials,GB00B19NLV48,London Stock Exchange,United Kingdom,GBP
+PRU,PRUDENTIAL PLC,Equity,1.71,9.43,"12,965,518.00","122,238,903.70","122,238,903.70",Financials,GB0007099541,London Stock Exchange,United Kingdom,GBP
+AAL,ANGLO AMERICAN PLC,Equity,1.55,18.11,"6,110,543.00","110,674,154.82","110,674,154.82",Materials,GB00B1XZS820,London Stock Exchange,United Kingdom,GBP
+CRH,CRH PLC,Equity,1.49,27.2,"3,899,143.00","106,056,689.60","106,056,689.60",Materials,IE0001827041,London Stock Exchange,Ireland,GBP
+TSCO,TESCO PLC,Equity,1.38,2.06,"48,059,358.00","98,761,980.69","98,761,980.69",Consumer Staples,GB0008847096,London Stock Exchange,United Kingdom,GBP
+LLOY,LLOYDS BANKING GROUP PLC,Equity,1.37,0.28,"349,503,743.00","97,948,423.98","97,948,423.98",Financials,GB0008706128,London Stock Exchange,United Kingdom,GBP
+CPG,COMPASS GROUP PLC,Equity,1.31,10.55,"8,842,564.00","93,289,050.20","93,289,050.20",Consumer Discretionary,GB00BD6K4575,London Stock Exchange,United Kingdom,GBP
+BARC,BARCLAYS PLC,Equity,1.28,1.07,"85,769,753.00","91,396,248.80","91,396,248.80",Financials,GB0031348658,London Stock Exchange,United Kingdom,GBP
+FERG,FERGUSON PLC,Equity,1.21,77.22,"1,116,890.00","86,246,245.80","86,246,245.80",Industrials,JE00BJVNSS43,London Stock Exchange,United Kingdom,GBP
+GLEN,GLENCORE PLC,Equity,1.17,1.56,"53,586,151.00","83,540,809.41","83,540,809.41",Materials,JE00B4T3BW64,London Stock Exchange,United Kingdom,GBP
+FLTR,FLUTTER ENTERTAINMENT PLC,Equity,1.13,133.6,"603,213.00","80,589,256.80","80,589,256.80",Consumer Discretionary,IE00BWT6H894,London Stock Exchange,Ireland,GBP
+SMT,SCOTTISH MORTGAGE INVESTMENT TRUST,Equity,1.02,9.95,"7,328,023.00","72,877,188.73","72,877,188.73",Financials,GB00BLDYK618,London Stock Exchange,United Kingdom,GBP
+SSE,SSE PLC,Equity,0.91,12.55,"5,159,514.00","64,751,900.70","64,751,900.70",Utilities,GB0007908733,London Stock Exchange,United Kingdom,GBP
+BA,BAE SYSTEMS PLC,Equity,0.89,3.97,"15,948,068.00","63,313,829.96","63,313,829.96",Industrials,GB0002634946,London Stock Exchange,United Kingdom,GBP
+AHT,ASHTEAD GROUP PLC,Equity,0.87,28,"2,218,729.00","62,124,412.00","62,124,412.00",Industrials,GB0000536739,London Stock Exchange,United Kingdom,GBP
+SN,SMITH AND NEPHEW PLC,Equity,0.82,13.37,"4,358,798.00","58,255,335.27","58,255,335.27",Health Care,GB0009223206,London Stock Exchange,United Kingdom,GBP
+IMB,IMPERIAL BRANDS PLC,Equity,0.8,12.24,"4,681,594.00","57,302,710.56","57,302,710.56",Consumer Staples,GB0004544929,London Stock Exchange,United Kingdom,GBP
+OCDO,OCADO GROUP PLC,Equity,0.77,22.76,"2,408,911.00","54,826,814.36","54,826,814.36",Consumer Discretionary,GB00B3MBS747,London Stock Exchange,United Kingdom,GBP
+LGEN,LEGAL AND GENERAL GROUP PLC,Equity,0.76,1.85,"29,409,290.00","54,348,367.92","54,348,367.92",Financials,GB0005603997,London Stock Exchange,United Kingdom,GBP
+SGRO,SEGRO REIT PLC,Equity,0.75,9.02,"5,927,082.00","53,462,279.64","53,462,279.64",Real Estate,GB00B5ZN1N88,London Stock Exchange,United Kingdom,GBP
+JET,JUST EAT TAKEAWA NV,Equity,0.7,85.68,"586,985.00","50,292,874.80","50,292,874.80",Consumer Discretionary,NL0012015705,London Stock Exchange,Netherlands,GBP
+AV,AVIVA PLC,Equity,0.7,2.58,"19,488,708.00","50,183,423.10","50,183,423.10",Financials,GB0002162385,London Stock Exchange,United Kingdom,GBP
+RTO,RENTOKIL INITIAL PLC,Equity,0.68,5.26,"9,233,811.00","48,569,845.86","48,569,845.86",Industrials,GB00B082RF11,London Stock Exchange,United Kingdom,GBP
+III,3I GROUP PLC,Equity,0.64,9.61,"4,742,373.00","45,574,204.53","45,574,204.53",Financials,GB00B1YW4409,London Stock Exchange,United Kingdom,GBP
+STAN,STANDARD CHARTERED PLC,Equity,0.63,3.52,"12,840,208.00","45,171,851.74","45,171,851.74",Financials,GB0004082847,London Stock Exchange,United Kingdom,GBP
+ITRK,INTERTEK GROUP PLC,Equity,0.63,55.72,"803,072.00","44,747,171.84","44,747,171.84",Industrials,GB0031638363,London Stock Exchange,United Kingdom,GBP
+HLMA,HALMA PLC,Equity,0.63,23.68,"1,886,631.00","44,675,422.08","44,675,422.08",Information Technology,GB0004052071,London Stock Exchange,United Kingdom,GBP
+BT.A,BT GROUP PLC,Equity,0.62,1.01,"43,424,768.00","44,032,714.75","44,032,714.75",Communication,GB0030913577,London Stock Exchange,United Kingdom,GBP
+SPX,SPIRAX-SARCO ENGINEERING PLC,Equity,0.58,112.8,"365,226.00","41,197,492.80","41,197,492.80",Industrials,GB00BWFGQN14,London Stock Exchange,United Kingdom,GBP
+BNZL,BUNZL,Equity,0.56,24,"1,675,014.00","40,200,336.00","40,200,336.00",Industrials,GB00B0744B38,London Stock Exchange,United Kingdom,GBP
+CRDA,CRODA INTERNATIONAL PLC,Equity,0.52,60.34,"617,761.00","37,275,698.74","37,275,698.74",Materials,GB00BJFFLV09,London Stock Exchange,United Kingdom,GBP
+NXT,NEXT PLC,Equity,0.52,58.4,"635,189.00","37,095,037.60","37,095,037.60",Consumer Discretionary,GB0032089863,London Stock Exchange,United Kingdom,GBP
+PSN,PERSIMMON PLC,Equity,0.52,23.36,"1,579,923.00","36,907,001.28","36,907,001.28",Consumer Discretionary,GB0006825383,London Stock Exchange,United Kingdom,GBP
+WPP,WPP PLC,Equity,0.51,6.17,"5,859,867.00","36,131,939.92","36,131,939.92",Communication,JE00B8KF9B49,London Stock Exchange,United Kingdom,GBP
+IHG,INTERCONTINENTAL HOTELS GROUP PLC,Equity,0.5,39.16,"905,728.00","35,468,308.48","35,468,308.48",Consumer Discretionary,GB00BHJYC057,London Stock Exchange,United Kingdom,GBP
+MNDI,MONDI PLC,Equity,0.49,14.63,"2,395,104.00","35,040,371.52","35,040,371.52",Materials,GB00B1CRLC47,London Stock Exchange,United Kingdom,GBP
+SKG,SMURFIT KAPPA GROUP PLC,Equity,0.48,29.12,"1,185,292.00","34,515,703.04","34,515,703.04",Materials,IE00B1RR8406,London Stock Exchange,Ireland,GBP
+SGE,SAGE GROUP PLC,Equity,0.48,6.36,"5,407,580.00","34,370,578.48","34,370,578.48",Information Technology,GB00B8C3BL03,London Stock Exchange,United Kingdom,GBP
+INF,INFORMA PLC,Equity,0.44,4.18,"7,468,220.00","31,217,159.60","31,217,159.60",Communication,GB00BMJ6DW54,London Stock Exchange,United Kingdom,GBP
+KGF,KINGFISHER PLC,Equity,0.42,2.87,"10,488,601.00","30,112,773.47","30,112,773.47",Consumer Discretionary,GB0033195214,London Stock Exchange,United Kingdom,GBP
+ICSSAGD,BLK ICS GBP LIQ AGENCY DIS,Money Market,0.42,1,"29,950,811.00","29,950,810.97","29,950,810.97",Cash and/or Derivatives,IE00B52L4369,-,Ireland,GBP
+ABF,ASSOCIATED BRITISH FOODS PLC,Equity,0.41,16.98,"1,732,018.00","29,401,005.55","29,401,005.55",Consumer Staples,GB0006731235,London Stock Exchange,United Kingdom,GBP
+UU,UNITED UTILITIES GROUP PLC,Equity,0.41,8.63,"3,400,228.00","29,357,568.55","29,357,568.55",Utilities,GB00B39J2M42,London Stock Exchange,United Kingdom,GBP
+MRO,MELROSE INDUSTRIES PLC,Equity,0.4,1.2,"23,953,917.00","28,660,861.69","28,660,861.69",Industrials,GB00BZ1G4322,London Stock Exchange,United Kingdom,GBP
+SVT,SEVERN TRENT PLC,Equity,0.4,24.3,"1,173,966.00","28,527,373.80","28,527,373.80",Utilities,GB00B1FH8J72,London Stock Exchange,United Kingdom,GBP
+ADM,ADMIRAL GROUP PLC,Equity,0.4,27.5,"1,029,516.00","28,311,690.00","28,311,690.00",Financials,GB00B02J6398,London Stock Exchange,United Kingdom,GBP
+GVC,GVC HOLDINGS PLC,Equity,0.39,9.66,"2,880,670.00","27,833,033.54","27,833,033.54",Consumer Discretionary,IM00B5VQMV65,London Stock Exchange,United Kingdom,GBP
+NWG,NATWEST GROUP PLC,Equity,0.39,1.24,"22,380,912.00","27,797,092.70","27,797,092.70",Financials,GB00B7T77214,London Stock Exchange,United Kingdom,GBP
+POLY,POLYMETAL INTERNATIONAL PLC,Equity,0.39,16.4,"1,682,743.00","27,588,571.48","27,588,571.48",Materials,JE00B6T5S470,London Stock Exchange,Russian Federation,GBP
+AUTO,AUTO TRADER GROUP PLC,Equity,0.38,5.79,"4,698,520.00","27,204,430.80","27,204,430.80",Communication,GB00BVYVFW23,London Stock Exchange,United Kingdom,GBP
+BRBY,BURBERRY GROUP PLC,Equity,0.38,13.56,"1,992,888.00","27,023,561.28","27,023,561.28",Consumer Discretionary,GB0031743007,London Stock Exchange,United Kingdom,GBP
+RMV,RIGHTMOVE PLC,Equity,0.37,6.18,"4,299,503.00","26,570,928.54","26,570,928.54",Communication,GB00BGDT3G23,London Stock Exchange,United Kingdom,GBP
+GBP,GBP CASH,Cash,0.37,100,"26,302,858.00","26,302,857.77","26,302,857.77",Cash and/or Derivatives,-,-,United Kingdom,GBP
+SMIN,SMITHS GROUP PLC,Equity,0.37,13.3,"1,973,064.00","26,231,885.88","26,231,885.88",Industrials,GB00B1WY2338,London Stock Exchange,United Kingdom,GBP
+SLA,STANDARD LIFE ABERDEEN PLC,Equity,0.35,2.25,"10,989,092.00","24,670,511.54","24,670,511.54",Financials,GB00BF8Q6K64,London Stock Exchange,United Kingdom,GBP
+DCC,DCC PLC,Equity,0.34,50.24,"488,692.00","24,551,886.08","24,551,886.08",Industrials,IE0002424939,London Stock Exchange,United Kingdom,GBP
+BDEV,BARRATT DEVELOPMENTS PLC,Equity,0.34,4.83,"5,017,022.00","24,207,131.15","24,207,131.15",Consumer Discretionary,GB0000811801,London Stock Exchange,United Kingdom,GBP
+HL,HARGREAVES LANSDOWN PLC,Equity,0.34,13.53,"1,781,599.00","24,096,126.48","24,096,126.48",Financials,GB00B1VZ0M25,London Stock Exchange,United Kingdom,GBP
+STJ,ST JAMESS PLACE PLC,Equity,0.33,8.99,"2,641,986.00","23,756,738.11","23,756,738.11",Financials,GB0007669376,London Stock Exchange,United Kingdom,GBP
+BKG,BERKELEY GROUP HOLDINGS (THE) PLC,Equity,0.33,40.57,"580,762.00","23,561,514.34","23,561,514.34",Consumer Discretionary,GB00B02L3W35,London Stock Exchange,United Kingdom,GBP
+RSA,RSA INSURANCE GROUP PLC,Equity,0.31,4.24,"5,165,574.00","21,881,371.46","21,881,371.46",Financials,GB00BKKMKR23,London Stock Exchange,United Kingdom,GBP
+WTB,WHITBREAD PLC,Equity,0.3,21.47,"1,002,087.00","21,514,807.89","21,514,807.89",Consumer Discretionary,GB00B1KJJ408,London Stock Exchange,United Kingdom,GBP
+HIK,HIKMA PHARMACEUTICALS PLC,Equity,0.29,25.1,"835,482.00","20,970,598.20","20,970,598.20",Health Care,GB00B0LCW083,London Stock Exchange,United Kingdom,GBP
+PNN,PENNON GROUP PLC,Equity,0.29,9.93,"2,081,782.00","20,663,768.13","20,663,768.13",Utilities,GB00B18V8630,London Stock Exchange,United Kingdom,GBP
+BME,B&M EUROPEAN VALUE RETAIL SA,Equity,0.29,4.85,"4,224,490.00","20,480,327.52","20,480,327.52",Consumer Discretionary,LU1072616219,London Stock Exchange,United Kingdom,GBP
+JMAT,JOHNSON MATTHEY PLC,Equity,0.28,21.49,"945,668.00","20,322,405.32","20,322,405.32",Materials,GB00BZ4BQC70,London Stock Exchange,United Kingdom,GBP
+TW,TAYLOR WIMPEY PLC,Equity,0.27,1.06,"17,987,465.00","19,030,737.97","19,030,737.97",Consumer Discretionary,GB0008782301,London Stock Exchange,United Kingdom,GBP
+PSON,PEARSON PLC,Equity,0.27,5.1,"3,728,811.00","19,016,936.10","19,016,936.10",Communication,GB0006776081,London Stock Exchange,United Kingdom,GBP
+MNG,M&G PLC,Equity,0.27,1.47,"12,947,775.00","18,987,912.04","18,987,912.04",Financials,GB00BKFB1C65,London Stock Exchange,United Kingdom,GBP
+LAND,LAND SECURITIES GROUP REIT PLC,Equity,0.25,5.09,"3,550,594.00","18,083,175.24","18,083,175.24",Real Estate,GB00BYW0PQ60,London Stock Exchange,United Kingdom,GBP
+SMDS,SMITH (DS) PLC,Equity,0.25,2.83,"6,348,803.00","17,973,461.29","17,973,461.29",Materials,GB0008220112,London Stock Exchange,United Kingdom,GBP
+ANTO,ANTOFAGASTA PLC,Equity,0.25,10.3,"1,735,452.00","17,866,478.34","17,866,478.34",Materials,GB0000456144,London Stock Exchange,United Kingdom,GBP
+IAG,INTERNATIONAL AIRLINES GROUP SA,Equity,0.25,0.96,"18,488,891.00","17,830,686.48","17,830,686.48",Industrials,ES0177542018,London Stock Exchange,Spain,GBP
+PHNX,PHOENIX GROUP HOLDINGS PLC,Equity,0.25,6.62,"2,685,721.00","17,790,215.90","17,790,215.90",Financials,GB00BGXQNP29,London Stock Exchange,United Kingdom,GBP
+MRW,MORRISON(WM.)SUPERMARKETS PLC,Equity,0.25,1.63,"10,914,081.00","17,779,037.95","17,779,037.95",Consumer Staples,GB0006043169,London Stock Exchange,United Kingdom,GBP
+CCH,COCA COLA HBC AG,Equity,0.24,17.55,"961,604.00","16,876,150.20","16,876,150.20",Consumer Staples,CH0198251305,London Stock Exchange,United Kingdom,GBP
+SBRY,SAINSBURY(J) PLC,Equity,0.23,2.02,"8,072,971.00","16,275,109.54","16,275,109.54",Consumer Staples,GB00B019KW72,London Stock Exchange,United Kingdom,GBP
+BLND,BRITISH LAND REIT PLC,Equity,0.23,3.49,"4,637,149.00","16,165,101.41","16,165,101.41",Real Estate,GB0001367019,London Stock Exchange,United Kingdom,GBP
+ICP,INTERMEDIATE CAPITAL GROUP PLC,Equity,0.23,11.71,"1,378,688.00","16,144,436.48","16,144,436.48",Financials,GB00BYT1DJ19,London Stock Exchange,United Kingdom,GBP
+JD,JD SPORTS FASHION PLC,Equity,0.22,7.41,"2,134,660.00","15,822,099.92","15,822,099.92",Consumer Discretionary,GB00BYX91H57,London Stock Exchange,United Kingdom,GBP
+HSV,HOMESERVE PLC,Equity,0.21,11.05,"1,365,891.00","15,093,095.55","15,093,095.55",Industrials,GB00BYYTFB60,London Stock Exchange,United Kingdom,GBP
+SDR,SCHRODERS PLC,Equity,0.2,26.14,"554,856.00","14,503,935.84","14,503,935.84",Financials,GB0002405495,London Stock Exchange,United Kingdom,GBP
+AVV,AVEVA GROUP PLC,Equity,0.19,42.9,"316,009.00","13,556,786.10","13,556,786.10",Information Technology,GB00BBG9VN75,London Stock Exchange,United Kingdom,GBP
+AVST,AVAST PLC,Equity,0.18,4.74,"2,729,939.00","12,950,830.62","12,950,830.62",Information Technology,GB00BDD85M81,London Stock Exchange,United Kingdom,GBP
+RRN,ROLLS-ROYCE HOLDINGS NIL PAID RIGH,Equity,0.16,0.39,"28,793,656.00","11,229,525.84","11,229,525.84",Industrials,GB00BJP49W43,London Stock Exchange,United Kingdom,GBP
+FRES,FRESNILLO PLC,Equity,0.15,11.63,"914,853.00","10,635,166.12","10,635,166.12",Materials,GB00B2QPKJ12,London Stock Exchange,United Kingdom,GBP
+EVR,EVRAZ,Equity,0.14,3.6,"2,831,947.00","10,180,849.46","10,180,849.46",Materials,GB00B71N6K86,London Stock Exchange,United Kingdom,GBP
+RR,ROLLS-ROYCE HOLDINGS PLC,Equity,0.09,0.71,"8,638,097.00","6,160,690.78","6,160,690.78",Industrials,GB00B63H8491,London Stock Exchange,United Kingdom,GBP
+BZFUT,CASH COLLATERAL GBP BZFUT,Cash Collateral and Margins,0.09,100,"6,094,610.00","6,094,610.00","6,094,610.00",Cash and/or Derivatives,-,-,United Kingdom,GBP
+USD,USD CASH,Cash,0.02,77.34,"1,630,265.00","1,260,838.93","1,260,838.93",Cash and/or Derivatives,-,-,United States,USD
+EUR,EUR CASH,Cash,0.01,90.09,"1,128,121.00","1,016,312.35","1,016,312.35",Cash and/or Derivatives,-,-,European Union,EUR
+Z Z0,FTSE 100 INDEX DEC 20,Futures,0,"5,563.50",957,0,"53,242,695.00",Cash and/or Derivatives,GB00HDK54J62,IFLL,-,GBP
+CHF,CHF CASH,Cash,0,84.38,0,0.27,0.27,Cash and/or Derivatives,-,-,Switzerland,CHF
+ ,,,,,,,,,,,,
