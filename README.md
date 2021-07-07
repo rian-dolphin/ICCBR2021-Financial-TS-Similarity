@@ -1,4 +1,4 @@
-# ICCBR2021-Financial-TS-Similarity
+# ICCBR 2021 Paper on Financial Time Series Similarity
 This repository relates to the paper "Measuring Financial Time Series Similarity With a View to Identifying Profitable Stock Market Opportunities" which was published in the proceedings of the International Conference on Case Based Reasoning (ICCBR) 2021
 
 Notebook order is:
